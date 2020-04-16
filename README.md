@@ -1,2 +1,2 @@
 ## sentiment-analysis-on-movie-reviews
-![image](https://github.com/harry83528/taskQALineBot/blob/master/messageImage_1578626946104.jpg)
+![image](https://github.com/harry83528/sentiment-analysis-on-movie-reviews/blob/master/messageImage_1587031697170.jpg)
